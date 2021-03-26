@@ -53,9 +53,9 @@ class LinkedList {
         Node node = new Node(data);
         
         if(this.head == null)
-			this.head=this.tail=node;
-		else{
-    		node.setNext(head);
+		this.head=this.tail=node;
+	else{
+    		node.setNext(this.head);
     		this.head = node;
 		}
 	}
