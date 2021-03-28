@@ -47,7 +47,7 @@ class LinkedList {
 
 	}
 	
-	
+
 	public void addAtBeginning(String data){
         //Implement your code here
         Node node = new Node(data);
