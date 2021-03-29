@@ -92,6 +92,7 @@ class LinkedList {
 		return null;
 	}
 
+
 	public static void main(String args[]) {
 		LinkedList list = new LinkedList();
 		list.addAtEnd("Milan");
