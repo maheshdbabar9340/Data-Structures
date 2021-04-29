@@ -19,8 +19,6 @@ class Node {
 	}
 }
 
-
-
 class LinkedList {
 	
 	private Node head;
