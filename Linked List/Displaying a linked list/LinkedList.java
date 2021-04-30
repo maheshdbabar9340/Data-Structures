@@ -22,7 +22,6 @@ class Node {
 		return this.next;
 	}
 }
-
 class LinkedList {
 
 	private Node head;
